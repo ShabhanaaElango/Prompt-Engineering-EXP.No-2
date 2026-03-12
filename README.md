@@ -20,6 +20,11 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 5.User experience
 
+
 OUTPUT:
 
+[PROMPT EXP2.pdf](https://github.com/user-attachments/files/25925518/PROMPT.EXP2.pdf)
+
 RESULT:
+
+<img width="961" height="348" alt="{1C8E210F-5A93-48F4-9781-8269D5A2528A}" src="https://github.com/user-attachments/assets/67cb612c-9c72-4b91-a7a0-498b3953124b" />
